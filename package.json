@@ -37,7 +37,7 @@
     "swr": "^2.1.1",
     "tailwind-scrollbar": "^3.0.5",
     "typescript": "5.0.2",
-    "world-countries": "^4.0.0",
+    "world-countries": "^5.0.0",
     "zustand": "^4.3.6"
   },
   "devDependencies": {
